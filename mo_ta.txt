@@ -1,0 +1,21 @@
+sẽ có 2 chế độ chơi:
+1: chế độ 2 người chơi
+nhân vật bên trái dùng các phím w và s 
+để di chuyển lên xuống, bấm phím cách 
+để bắn
+nhân vật bên phải sẽ dùng cá phím mũi 
+tên lên xuống để di chuyển lên xuống 
+bấm phím mũi tên trái để bắn
+nếu bắn trúng đối thủ, bên mình được 
+cộng 1 điểm và đối thủ bị trừ 1. khi nào
+1 trong 2 bên đạt được 20 điểm trước thì 
+bên đó thắng
+2: chế độ chơi với máy
+sử dụng nút mũi tên để di chuyển
+chạm vào quái vật là sẽ thua luôn
+chuột trái để bắn
+mỗi 10 giây sẽ qua 1 màn
+khi qua 1 màn thì nhân vật sẽ di 
+chuyển nhanh hơn 10% và quái sẽ 
+nhanh hơn 20%
+khi đủ 20 điểm thì bạn sẽ thắng 
